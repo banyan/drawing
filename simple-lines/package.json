@@ -1,5 +1,5 @@
 {
-  "name": "simple-lines",
+  "name": "@drawing/simple-lines",
   "version": "0.0.0",
   "scripts": {
     "dev": "vite",

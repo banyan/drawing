@@ -1,0 +1,8 @@
+{
+  "name": "drawing",
+  "private": true,
+  "workspaces": ["simple-lines"],
+  "scripts": {
+    "build": "yarn workspace @drawing/simple-lines build"
+  }
+}
